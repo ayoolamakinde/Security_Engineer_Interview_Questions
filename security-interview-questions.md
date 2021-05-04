@@ -129,3 +129,7 @@
    * What is role-based access control (RBAC) and why is it covered by compliance frameworks?
    * What is the NIST framework and why is it influential?
    * What is the OSI model?
+
+# Accessment
+How do you review a tool/application for security compliance on either AWS or elsewhere
+How do you work with PCI DSS protected data
